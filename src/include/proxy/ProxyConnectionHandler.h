@@ -1,6 +1,7 @@
 #pragma once
 
 #include <mutex>
+#include <memory>
 #include "../common/Socket.h"
 
 namespace wavefront {
